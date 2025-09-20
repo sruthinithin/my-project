@@ -15,7 +15,7 @@ export default function Hero() {
       <h2 className="text-4xl font-bold text-pink-700">Shine with Elegance ✨</h2>
       <p className="text-gray-700 mt-4"> Discover our handcrafted jewelry collection</p>
       <button className="mt-6 bg-gradient-to-r from-pink-600 to-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:from-pink-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-200 shadow-lg">
-        Shop Now
+        Shop Now 
       </button>
     </section>
   )
